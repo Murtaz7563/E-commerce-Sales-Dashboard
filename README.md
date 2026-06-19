@@ -1,5 +1,5 @@
 # Project Objective
-## To analyze the sales, profitability, and loss patterns of Indian e-commerce platforms across states, cities, and product 
+To analyze the sales, profitability, and loss patterns of Indian e-commerce platforms across states, cities, and product 
 categories over a full financial year using an interactive Excel dashboard.
 
 # Key Business Questions
